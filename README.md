@@ -46,7 +46,7 @@ Desarrollado con FUSION 360:
 ## 💻 Software
 
 Sistema en bucle cerrado controlado por un PID discreto ajustado experimentalmente.  
-- Diseño de PID en MATLAB
+- Diseño de PID en C
 - Control sobre ESP32 con tiempo de muestreo ~10 ms
 - Comunicación con joystick externo vía protocolo **ESP-Now**
 - Referencia mapeada desde joystick a ángulos para control
